@@ -20,5 +20,5 @@ while True:
     login_user = str(input("Log in?"))
     
     if login_user.strip().capitalize() == "Yes":
-        time.sleep
+        time.sleep(2)
         print("Initializing ")
